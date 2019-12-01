@@ -1,0 +1,13 @@
+C:\Users\stef\source\repos\APIAngular\APIAngular\bin\Debug\netcoreapp2.2\APIAngular.deps.json
+C:\Users\stef\source\repos\APIAngular\APIAngular\bin\Debug\netcoreapp2.2\APIAngular.runtimeconfig.json
+C:\Users\stef\source\repos\APIAngular\APIAngular\bin\Debug\netcoreapp2.2\APIAngular.runtimeconfig.dev.json
+C:\Users\stef\source\repos\APIAngular\APIAngular\bin\Debug\netcoreapp2.2\APIAngular.dll
+C:\Users\stef\source\repos\APIAngular\APIAngular\bin\Debug\netcoreapp2.2\APIAngular.pdb
+C:\Users\stef\source\repos\APIAngular\APIAngular\obj\Debug\netcoreapp2.2\APIAngular.csprojAssemblyReference.cache
+C:\Users\stef\source\repos\APIAngular\APIAngular\obj\Debug\netcoreapp2.2\APIAngular.RazorAssemblyInfo.cache
+C:\Users\stef\source\repos\APIAngular\APIAngular\obj\Debug\netcoreapp2.2\APIAngular.RazorAssemblyInfo.cs
+C:\Users\stef\source\repos\APIAngular\APIAngular\obj\Debug\netcoreapp2.2\APIAngular.AssemblyInfoInputs.cache
+C:\Users\stef\source\repos\APIAngular\APIAngular\obj\Debug\netcoreapp2.2\APIAngular.AssemblyInfo.cs
+C:\Users\stef\source\repos\APIAngular\APIAngular\obj\Debug\netcoreapp2.2\APIAngular.RazorTargetAssemblyInfo.cache
+C:\Users\stef\source\repos\APIAngular\APIAngular\obj\Debug\netcoreapp2.2\APIAngular.dll
+C:\Users\stef\source\repos\APIAngular\APIAngular\obj\Debug\netcoreapp2.2\APIAngular.pdb
